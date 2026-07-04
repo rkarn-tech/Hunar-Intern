@@ -1,4 +1,6 @@
-# Data Cleaning Task - Hunar Intern
+# Hunar Internship Tasks 
+
+## 📌 Task 1 - Data Cleaning
 
 ## 📌 Objective
 The objective of this task is to clean the given dataset using Python and Pandas.
@@ -31,8 +33,7 @@ The objective of this task is to clean the given dataset using Python and Pandas
   ## 🎯 Result
 The dataset was successfully cleaned and prepared for further analysis.
 
-
-# 🏠 House Price Prediction using Linear Regression - Hunar Intern
+## 📌 Task 2 - 🏠 House Price Prediction using Linear Regression
 
 ## 📌 Objective
 The objective of this task is to build a Machine Learning model using Linear Regression to predict house prices based on various house features.
