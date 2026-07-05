@@ -114,7 +114,6 @@ The objective of this project is to build a Machine Learning model using the K-N
   - Classification Report
 - Compared different K values (1–20)
 - Visualized **K Value vs Accuracy** using a line graph
-- 
 
 ## 📈 Results
 
