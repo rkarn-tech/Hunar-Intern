@@ -1,4 +1,4 @@
-# Hunar Internship Tasks 
+# Hunar Internship Tasks :-
 
 ## 📌 Task 1 - Data Cleaning
 
@@ -73,3 +73,55 @@ The objective of this task is to build a Machine Learning model using Linear Reg
 
 ## 📌 Conclusion
 A Linear Regression model was successfully developed to predict house prices. The complete machine learning workflow was implemented, including data preprocessing, feature selection, model training, prediction, and evaluation. The R² score is low due to the dataset quality and the use of a basic Linear Regression model, but the project successfully demonstrates the end-to-end machine learning process.
+
+
+## 📌 Task 3 - 🩺 Breast Cancer Classification using K-Nearest Neighbors (KNN)
+
+## 📌 Objective
+
+The objective of this project is to build a Machine Learning model using the K-Nearest Neighbors (KNN) algorithm to classify breast cancer tumors as **Malignant (M)** or **Benign (B)**.
+
+## 🛠️ Tools & Libraries Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+
+## 📂 Dataset
+
+- breast_cancer.csv
+
+## ✅ Tasks Performed
+
+- Imported the required libraries
+- Loaded the breast cancer dataset
+- Explored the dataset
+- Checked dataset information
+- Verified missing values
+- Removed the unnecessary **id** column
+- Encoded the target variable (M → 1, B → 0)
+- Split the dataset into training and testing sets
+- Applied feature scaling using StandardScaler
+- Trained a K-Nearest Neighbors (KNN) classifier
+- Made predictions on the test dataset
+- Evaluated the model using:
+  - Accuracy Score
+  - Confusion Matrix
+  - Classification Report
+- Compared different K values (1–20)
+- Visualized **K Value vs Accuracy** using a line graph
+- 
+
+## 📈 Results
+
+- **Accuracy (K = 5):** 94.74%
+- **Best Accuracy:** 96.49% (K = 9)
+
+
+## 📊 Conclusion
+
+The K-Nearest Neighbors (KNN) model successfully classified breast cancer tumors with an accuracy of **94.74%** using **K = 5**. After testing multiple values of **K (1–20)**, the highest accuracy of **96.49%** was achieved at **K = 9**. The model demonstrated strong performance based on Accuracy, Confusion Matrix, and Classification Report, making it effective for binary classification of breast cancer.
