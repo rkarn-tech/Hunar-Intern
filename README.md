@@ -124,3 +124,27 @@ The objective of this project is to build a Machine Learning model using the K-N
 ## 📊 Conclusion
 
 The K-Nearest Neighbors (KNN) model successfully classified breast cancer tumors with an accuracy of **94.74%** using **K = 5**. After testing multiple values of **K (1–20)**, the highest accuracy of **96.49%** was achieved at **K = 9**. The model demonstrated strong performance based on Accuracy, Confusion Matrix, and Classification Report, making it effective for binary classification of breast cancer.
+
+
+# Hunar Internship - Task 4
+
+## Assignment 1: NumPy Array
+
+### 📌 Objective
+Create a NumPy matrix from user input and calculate the sum of its diagonal elements using a loop.
+
+### 🛠️ Tools Used
+- Python
+- NumPy
+- Jupyter Notebook
+
+### 📂 Task Performed
+- Imported the NumPy library
+- Accepted the order of the matrix from the user
+- Accepted matrix elements
+- Created a NumPy array
+- Calculated the sum of the main diagonal elements using a loop
+- Displayed the final result
+
+### 📈 Outcome
+Successfully created a NumPy array and calculated the sum of its diagonal elements using a loop.
