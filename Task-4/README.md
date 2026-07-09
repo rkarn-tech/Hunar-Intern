@@ -1,4 +1,6 @@
-# Task 4 - SQL Queries
+# Task 4 
+
+Assignment 2- SQL Queries
 
 ## 📌 Objective
 The objective of this task is to perform SQL queries by creating Student and Course tables, inserting records, and extracting meaningful information from the database.
